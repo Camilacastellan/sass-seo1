@@ -1,0 +1,58 @@
+div {
+  width: 1440px; }
+
+div {
+  color: black; }
+
+h1 {
+  font-size: 24em; }
+
+h2 {
+  font-size: 12em; }
+
+h3 {
+  font-size: 8em; }
+
+h4 {
+  font-size: 6em; }
+
+h5 {
+  font-size: 4.8em; }
+
+h6 {
+  font-size: 4em; }
+
+.color-red {
+  background-color: red; }
+
+.color-blue {
+  background-color: blue; }
+
+.color-green {
+  background-color: green; }
+
+.color-yellow {
+  background-color: yellow; }
+
+.red-twitter {
+  color: #1d7aa9; }
+
+.red-facebook {
+  color: #030339; }
+
+.red-instagram {
+  color: #db6fdb; }
+
+.boton, .boton-primario {
+  border: solid 2px;
+  padding: 8px 16px;
+  margin: 8px; }
+
+.boton-primario {
+  background-color: blue;
+  border-color: blue; }
+
+div {
+  height: 8px;
+  width: 16px;
+  margin: 24px; }
